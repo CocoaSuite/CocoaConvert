@@ -1,0 +1,7 @@
+name: CocoaConvert
+version: 1
+formats:
+  - png
+  - jpg
+nested:
+  enabled: true

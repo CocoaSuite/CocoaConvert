@@ -1,0 +1,4 @@
+CocoaConvert sample
+
+Plain text with two paragraphs.
+Second line & <angle> characters.

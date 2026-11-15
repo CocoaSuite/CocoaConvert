@@ -1,0 +1,4 @@
+name,size,active,note
+Alpha,1,true,"Comma, inside"
+Beta,2.5,false,"Line ""quoted"""
+Gamma,,true,Ünïcode

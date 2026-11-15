@@ -1,0 +1,4 @@
+[
+  { "name": "Alpha", "size": 1, "tags": ["a", "b"], "owner": { "id": 7, "email": "a@example.com" } },
+  { "name": "Beta", "size": 2.5, "tags": [], "owner": { "id": 8 } }
+]

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+dist-server/
+coverage/
+*.tmp.mjs
+*.log
+.DS_Store
